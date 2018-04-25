@@ -1,0 +1,10 @@
+{
+  "name": "GWL",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {
+    "@angular/cli": "^1.7.4"
+  }
+}
